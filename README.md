@@ -1,5 +1,7 @@
 # Pumba: Chaos testing tool for Docker
 
+## Pumba is a resilience testing tool, that helps applications tolerate random Docker container failures: process, network and performance.
+
 [![Join the chat at https://gitter.im/pumba-chaos/Lobby](https://badges.gitter.im/pumba-chaos/Lobby.svg)](https://gitter.im/pumba-chaos/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/alexei-led/pumba.svg?branch=master)](https://travis-ci.org/alexei-led/pumba) [![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=alexei-led&repoName=pumba&branch=master&pipelineName=pumba&accountName=codefresh-inc&type=cf-1)]( https://g.codefresh.io/repositories/alexei-led/pumba/builds?filter=trigger:build;branch:master;service:5a9d1dac81caf90001f95f9d~pumba) [![Go Report Card](https://goreportcard.com/badge/github.com/alexei-led/pumba)](https://goreportcard.com/report/github.com/alexei-led/pumba) [![codecov](https://codecov.io/gh/alexei-led/pumba/branch/master/graph/badge.svg)](https://codecov.io/gh/alexei-led/pumba)
